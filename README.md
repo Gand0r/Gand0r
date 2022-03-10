@@ -6,6 +6,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gand0r)
 
+![](https://visitor-badge.glitch.me/badge?page_id=Gand0r.Gand0r)
 
 <!-- Actual text -->
 ### Interest but not expert :
@@ -71,6 +72,3 @@
 [1]: https://twitter.com/rumahnyamertua
 [2]: https://www.linkedin.com/mwlite/in/indrasetiawanbatam
 [3]: https://mail.google.com
-
-
-![](https://visitor-badge.glitch.me/badge?page_id=Gand0r.Gand0r)
