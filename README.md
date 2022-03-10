@@ -54,6 +54,7 @@
 [![Twitter][1.1]][1]
 [![LinkedIn][1.2]][2]
 
+* * *
 ### Contact 
 [![gmail][1.3]][3]
 ![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
