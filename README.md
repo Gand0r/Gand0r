@@ -1,8 +1,7 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ![](https://visitor-badge.glitch.me/badge?page_id=Gand0r.Gand0r)
 
-
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gand0r)
 
 <!-- Actual text -->
