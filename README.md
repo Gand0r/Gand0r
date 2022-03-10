@@ -3,7 +3,7 @@
 
 
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={Gand0r}
+![](https://github-readme-stats.vercel.app/api/top-langs/?username={Gand0r})
 
 <!-- Actual text -->
 
