@@ -9,14 +9,15 @@
 <!-- Actual text -->
 
 ### You can find me on :
-[![Twitter][1.2]][1]
+[![Twitter][1.1]][1]
 
-[![LinkedIn][2.2]][2]
+[![LinkedIn][1.2]][2]
 
 <!-- Icons -->
 
-[1.2]: twitt.png
-[2.2]: linkedin.png
+[1.1]: twitt.png
+[1.2]: linkedin.png
+
 
 <!-- Links to your social media accounts -->
 
