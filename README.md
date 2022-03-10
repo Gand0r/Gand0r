@@ -1,5 +1,5 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![](https://visitor-badge.glitch.me/badge?page_id=Gand0r.Gand0r)
+
 ![](https://github-profile-trophy.vercel.app/?username=Gand0r)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gand0r&theme=vue)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gand0r)
@@ -69,3 +69,6 @@
 [1]: https://twitter.com/rumahnyamertua
 [2]: https://www.linkedin.com/mwlite/in/indrasetiawanbatam
 [3]: https://mail.google.com
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=Gand0r.Gand0r)
