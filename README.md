@@ -2,7 +2,8 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Gand0r.Gand0r)
 
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={username}
+
+https://github-readme-stats.vercel.app/api/top-langs/?username={Gand0r}
 
 <!-- Actual text -->
 
