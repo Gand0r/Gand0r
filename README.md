@@ -10,6 +10,7 @@
 
 <!-- Actual text -->
 ### Interest but not expert :
+* * *
 ![](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
 ![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
 ![](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
@@ -51,6 +52,7 @@
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ### You can find me on :
+* * *
 [![Twitter][1.1]][1]
 [![LinkedIn][1.2]][2]
 
