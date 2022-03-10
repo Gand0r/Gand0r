@@ -6,7 +6,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gand0r)
 
-![](https://visitor-badge.glitch.me/badge?page_id=Gand0r.Gand0r)
 * * *
 <!-- Actual text -->
 ### Interest but not expert :
@@ -61,6 +60,8 @@
 ![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)
 * * *
+![](https://visitor-badge.glitch.me/badge?page_id=Gand0r.Gand0r)
+
 <!-- Icons -->
 
 [1.1]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
