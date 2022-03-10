@@ -14,7 +14,7 @@
 
 <!-- Icons -->
 
-[1.2]: twitt.png width="25px"
+[1.2]: twitt.png
 [2.2]: linkedin.png
 
 <!-- Links to your social media accounts -->
