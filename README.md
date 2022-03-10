@@ -13,7 +13,7 @@
 
 [![LinkedIn][1.2]][2]
 
-### CP
+### Contact 
 [![gmail][1.3]][3]
 
 <!-- Icons -->
