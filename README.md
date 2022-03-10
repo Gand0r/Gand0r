@@ -3,9 +3,6 @@
 
 <br />
 
-
-
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gand0r&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
@@ -16,7 +13,8 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2]
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: linkedin.png
+[2.2]: <div style="float:left;margin:0 10px 10px 0" markdown="1">linkedin.png)
+</div>
 
 <!-- Links to your social media accounts -->
 
