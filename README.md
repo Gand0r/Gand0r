@@ -52,7 +52,6 @@
 
 ### You can find me on :
 [![Twitter][1.1]][1]
-
 [![LinkedIn][1.2]][2]
 
 ### Contact 
