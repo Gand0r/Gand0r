@@ -7,10 +7,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gand0r)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Gand0r.Gand0r)
-
+* * *
 <!-- Actual text -->
 ### Interest but not expert :
-* * *
 ![](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
 ![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
 ![](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
@@ -50,9 +49,8 @@
 ![](https://img.shields.io/badge/F%20Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)
 ![](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-### You can find me on :
 * * *
+### You can find me on :
 [![Twitter][1.1]][1]
 [![LinkedIn][1.2]][2]
 
