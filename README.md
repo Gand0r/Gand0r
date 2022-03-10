@@ -3,6 +3,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gand0r&theme=vue)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gand0r)
+![](https://github-profile-trophy.vercel.app/?username=Gand0r)
 
 <!-- Actual text -->
 ### Interest but not expert :
@@ -45,9 +46,6 @@
 ![](https://img.shields.io/badge/F%20Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)
 ![](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![](https://github-profile-trophy.vercel.app/?username=Gand0r)
-
-<a href="https://stackexchange.com/users/9262492/gand0r"><img src="https://stackexchange.com/users/flair/9262492.png" width="208" height="58" alt="profile for Gand0r on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Gand0r on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
 ### You can find me on :
 [![Twitter][1.1]][1]
