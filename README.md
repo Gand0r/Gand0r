@@ -2,7 +2,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Gand0r.Gand0r)
 
 
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Timedash}&theme=vue
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Timedash&theme=vue
 
 <!-- Actual text -->
 
