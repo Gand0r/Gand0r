@@ -1,4 +1,4 @@
-### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ![](https://github-profile-trophy.vercel.app/?username=Gand0r)
 
