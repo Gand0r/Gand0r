@@ -74,4 +74,4 @@
 
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=Gand0r.Gand0r
+![](https://visitor-badge.glitch.me/badge?page_id=Gand0r.Gand0r)
