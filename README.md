@@ -13,13 +13,16 @@
 
 [![LinkedIn][1.2]][2]
 
+[![gmail][1.3]][3]
+
 <!-- Icons -->
 
 [1.1]: twitt.png
 [1.2]: linkedin.png
-
+[1.3]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/rumahnyamertua
 [2]: https://www.linkedin.com/mwlite/in/indrasetiawanbatam
+[3]: https://mail.google.com
