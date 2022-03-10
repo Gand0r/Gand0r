@@ -2,9 +2,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Gand0r.Gand0r)
 
 
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gand0r&theme=vue
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gand0r&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Gand0r}&theme=vue
 
 <!-- Actual text -->
 
