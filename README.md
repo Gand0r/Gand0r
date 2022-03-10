@@ -8,13 +8,13 @@
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1]
+### You can find me on [![Twitter][1.2]][1]
 
-or [![LinkedIn][2.2]][2]
+[![LinkedIn][2.2]][2]
 
 <!-- Icons -->
 
-[1.2]: twitt.png
+[1.2]: twitt.png width="25px"
 [2.2]: linkedin.png
 
 <!-- Links to your social media accounts -->
