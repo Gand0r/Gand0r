@@ -60,7 +60,7 @@
 ![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)
-
+* * *
 <!-- Icons -->
 
 [1.1]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
