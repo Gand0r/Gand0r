@@ -8,11 +8,9 @@
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], 
+You can find me on [![Twitter][1.2]][1]
 
-or
-
-[![LinkedIn][2.2]][2]
+or [![LinkedIn][2.2]][2]
 
 <!-- Icons -->
 
