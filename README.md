@@ -1,4 +1,4 @@
-INDRA SETIAWAN
+'INDRA SETIAWAN'
 
 * * *
 ![](https://github-profile-trophy.vercel.app/?username=Gand0r)
@@ -76,4 +76,4 @@ INDRA SETIAWAN
 [3]: https://mail.google.com
 
 
->Hidup adalah perkara mengumpulkan kisab demi kisah. Lalu kita rajut menjadi bagian, yang disebut KENANGAN.
+> Hidup adalah perkara mengumpulkan kisah demi kisah. Lalu kita rajut menjadi bagian, yang disebut KENANGAN.
