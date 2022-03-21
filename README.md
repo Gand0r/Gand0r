@@ -73,3 +73,6 @@
 [1]: https://twitter.com/rumahnyamertua
 [2]: https://www.linkedin.com/mwlite/in/indrasetiawanbatam
 [3]: https://mail.google.com
+
+
+>Hidup adalah perkara mengumpulkan kisab demi kisah. Lalu kita rajut menjadi bagian, yang disebut KENANGAN.
