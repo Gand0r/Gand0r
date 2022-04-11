@@ -14,7 +14,7 @@ Saya pernah mengerjakan semua jenis pekerjaan di bagian Dept saya, sampai saat i
 
 ### Kelemahan
 * * *
-Saya tidak suka pekerjaan yang bertele-tele, tidak suka dengan peraturan yang tidak ada makna dan tujuan yang jelas sehingga sering sounding ke atasan.
+Saya tidak suka pekerjaan yang bertele-tele.
 
 
 * * *
