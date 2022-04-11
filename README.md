@@ -1,5 +1,6 @@
 # INDRA SETIAWAN
 
+* * *
 ### Tentang Saya
 Saya Indra Setiawan, karyawan swasta yang bekerja di salah satu perusahaan retail di Batam. Tidak suka pekerjaan yang bertele-tele, lebih senang dengan pekerjaan yang cepat dan efisien.
 * * *
