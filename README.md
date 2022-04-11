@@ -1,24 +1,23 @@
 # INDRA SETIAWAN
 
+* * *
 ### Tentang Saya
 Saya Indra Setiawan, karyawan swasta yang bekerja di salah satu perusahaan retail di Batam. Tidak suka pekerjaan yang bertele-tele, lebih senang dengan pekerjaan yang cepat dan efisien.
-
+* * *
 ### Pekerjaan
 Saya biasa bekerja sebagai Teknisi Komputer atau kalau dalam pekerjaan disebut EDP.
-
+* * *
 ### Prestasi di perusahaan
 Saya pernah mengerjakan semua jenis pekerjaan di bagian Dept saya, sampai saat ini perusahaan masih memakai program sederhana yang saya buat, server yang pernah saya pasang juga masih di gunakan di salah satu kawasan industri.
-
+* * *
 ### Kelemahan
 Saya tidak suka pekerjaan yang bertele-tele, tidak suka dengan peraturan yang tidak ada makna dan tujuan yang jelas sehingga sering sounding ke atasan.
-
 * * *
 ![](https://github-profile-trophy.vercel.app/?username=Gand0r)
-
+* * *
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gand0r&theme=vue)
-
+* * *
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gand0r)
-
 * * *
 <!-- Actual text -->
 ###
@@ -61,17 +60,13 @@ Saya tidak suka pekerjaan yang bertele-tele, tidak suka dengan peraturan yang ti
 ![](https://img.shields.io/badge/F%20Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)
 ![](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
 * * *
 ###
 [![LinkedIn][1.2]][2]
 * * *
-
 ![](https://visitor-badge.glitch.me/badge?page_id=Gand0r.Gand0r)
-
 <!-- Icons -->
 [1.2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-
 <!-- Links to your social media accounts -->
 [2]: https://www.linkedin.com/mwlite/in/indrasetiawanbatam
 
