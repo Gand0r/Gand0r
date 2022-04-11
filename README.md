@@ -21,7 +21,7 @@ Saya tidak suka pekerjaan yang bertele-tele, tidak suka dengan peraturan yang ti
 
 * * *
 <!-- Actual text -->
-### Menyukai dan sedang proses belajar :
+###
 ![](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
 ![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
 ![](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
@@ -63,7 +63,7 @@ Saya tidak suka pekerjaan yang bertele-tele, tidak suka dengan peraturan yang ti
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 * * *
-### Sosial Media :
+###
 [![LinkedIn][1.2]][2]
 * * *
 
