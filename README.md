@@ -21,7 +21,7 @@ Saya tidak suka pekerjaan yang bertele-tele, tidak suka dengan peraturan yang ti
 
 * * *
 <!-- Actual text -->
-### Interest but not expert :
+### Menyukai dan sedang proses belajar :
 ![](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
 ![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
 ![](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
@@ -62,13 +62,11 @@ Saya tidak suka pekerjaan yang bertele-tele, tidak suka dengan peraturan yang ti
 ![](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 * * *
-### You can find me on :
-[![Twitter][1.1]][1]
+###  :
 [![LinkedIn][1.2]][2]
 
 * * *
-### Contact 
-[![gmail][1.3]][3]
+### Sosial Media
 ![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)
@@ -77,15 +75,11 @@ Saya tidak suka pekerjaan yang bertele-tele, tidak suka dengan peraturan yang ti
 
 <!-- Icons -->
 
-[1.1]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 [1.2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[1.3]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/rumahnyamertua
 [2]: https://www.linkedin.com/mwlite/in/indrasetiawanbatam
-[3]: https://mail.google.com
 
 
 > Hidup adalah perkara mengumpulkan kisah demi kisah. Lalu kita rajut menjadi bagian, yang disebut KENANGAN.
