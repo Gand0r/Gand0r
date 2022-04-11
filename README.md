@@ -3,18 +3,20 @@
 ### Tentang Saya
 * * *
 Saya Indra Setiawan, karyawan swasta yang bekerja di salah satu perusahaan retail di Batam. Tidak suka pekerjaan yang bertele-tele, lebih senang dengan pekerjaan yang cepat dan efisien.
-* * *
+
 ### Pekerjaan
 * * *
 Saya biasa bekerja sebagai Teknisi Komputer atau kalau dalam pekerjaan disebut EDP.
-* * *
+
 ### Prestasi di perusahaan
 * * *
 Saya pernah mengerjakan semua jenis pekerjaan di bagian Dept saya, sampai saat ini perusahaan masih memakai program sederhana yang saya buat, server yang pernah saya pasang juga masih di gunakan di salah satu kawasan industri.
-* * *
+
 ### Kelemahan
 * * *
 Saya tidak suka pekerjaan yang bertele-tele, tidak suka dengan peraturan yang tidak ada makna dan tujuan yang jelas sehingga sering sounding ke atasan.
+
+
 * * *
 ![](https://github-profile-trophy.vercel.app/?username=Gand0r)
 * * *
