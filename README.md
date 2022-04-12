@@ -10,8 +10,8 @@ Saya biasa bekerja sebagai Teknisi Komputer atau kalau dalam pekerjaan disebut E
 ### Prestasi di perusahaan
 Saya pernah mengerjakan semua jenis pekerjaan di bagian Dept saya, sampai saat ini perusahaan masih memakai program sederhana yang saya buat, server yang pernah saya pasang juga masih di gunakan di salah satu kawasan industri.
 * * *
-### Kelemahan
-Saya tidak suka pekerjaan yang bertele-tele.
+### Kelemahan atau Kekurangan
+Banyak 😁
 
 * * *
 ![](https://github-profile-trophy.vercel.app/?username=Gand0r)
