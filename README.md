@@ -59,4 +59,4 @@
 [2]: https://www.linkedin.com/mwlite/in/indrasetiawanbatam
 
 
-> Hidup adalah perkara mengumpulkan kisah demi kisah. Lalu kita rajut menjadi bagian, yang disebut KENANGAN.
+> Hidup adalah perkara mengumpulkan kisah demi kisah. Lalu kita rajut menjadi bagian, yang disebut KENANGAN
