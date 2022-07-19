@@ -1,5 +1,6 @@
-<h1 class="w3-jumbo"><span class="w3-hide-small">Saya,</span> Indra Setiawan</h1>
- <img src="https://github.com/Gand0r/home/blob/b8107392406ac5ea4c543e03161439b9b9583867/foto/2.jpg" alt="boy" class="w3-image" width="992" height="1108">
+### Indra Setiawan
+
+<img src="https://github.com/Gand0r/home/blob/b8107392406ac5ea4c543e03161439b9b9583867/foto/2.jpg" alt="boy" width="992" height="1108">
 
 
 * * *
