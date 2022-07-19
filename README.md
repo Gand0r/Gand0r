@@ -1,3 +1,7 @@
+<h1 class="w3-jumbo"><span class="w3-hide-small">Saya,</span> Indra Setiawan</h1>
+ <img src="foto/2.jpg" alt="boy" class="w3-image" width="992" height="1108">
+
+
 * * *
 ![](https://github-profile-trophy.vercel.app/?username=Gand0r)
 * * *
