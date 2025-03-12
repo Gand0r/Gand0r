@@ -1,6 +1,8 @@
 * * *
 
-Berdomisili di Batam, page ini hanya bertujuan untuk belajar dan pengembangan diri saya.
+Berdomisili di Batam, menyukai tantangan baru namun tidak berarti menerima tantangan dari orang lain yang kadang terlalu intervensi padahal bukan bagianya, karena ketidaktahuan sangan berbahya dan merepotkan.
+> karena ketidaktahuan sangan berbahya dan merepotkan.
+
 
 * * *
 ### Hobby
