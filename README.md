@@ -1,7 +1,7 @@
 * * *
 
-Berdomisili di Batam, menyukai tantangan baru namun tidak berarti menerima tantangan dari orang lain yang kadang terlalu intervensi padahal bukan bagianya, karena ketidaktahuan sangan berbahya dan merepotkan.
-> karena ketidaktahuan sangan berbahya dan merepotkan.
+Berdomisili di Batam, menyukai tantangan baru namun tidak berarti menerima tantangan dari orang lain yang kadang terlalu intervensi padahal bukan bagianya, karena ketidaktahuan sangat berbahya dan merepotkan.
+> karena ketidaktahuan sangat berbahya dan merepotkan.
 
 
 * * *
