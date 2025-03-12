@@ -3,7 +3,8 @@
 Berdomisili di Batam, menyukai tantangan baru namun tidak berarti menerima tantangan dari orang lain yang kadang terlalu intervensi padahal bukan bagianya, karena ketidaktahuan sangat berbahya dan merepotkan.
 > karena ketidaktahuan sangat berbahya dan merepotkan.
 
-ini bukan berarti tidak menerima pendapat dari orang lain ya. inget yang saya sampaikan di atas **padahalbukanbagianya**
+ini bukan berarti tidak menerima pendapat dari orang lain ya. inget yang saya sampaikan di atas
+> padahalbukanbagianya
 
 
 * * *
