@@ -1,8 +1,4 @@
 * * *
-### ReadMe
-Berdomisili di Batam
-
-* * *
 ### Hobby
 - Kumpul bersama keluarga, jalan-jalan bersama anak dan istri
 - Ngobrol dengan teman, luar biasa mendengarkan kisah sukses dari rekan-rekan semuanya, banyak yang bisa di pelajari.
