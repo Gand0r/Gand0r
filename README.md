@@ -1,7 +1,22 @@
 * * *
-### Hobby
-- Kumpul bersama keluarga, jalan-jalan bersama anak dan istri
-- Ngobrol dengan teman, luar biasa mendengarkan kisah sukses dari rekan-rekan semuanya, banyak yang bisa di pelajari.
+## Tentang Saya
+
+Saya memiliki minat besar dalam menjaga keseimbangan antara kehidupan profesional dan pribadi. Di luar pekerjaan, saya menikmati waktu berkualitas bersama keluarga serta menjalin hubungan yang positif dengan lingkungan sekitar.
+
+
+### Hobi & Minat
+
+- Menghabiskan waktu bersama keluarga, termasuk berjalan-jalan bersama anak dan istri.
+- Berdiskusi dan berbagi cerita dengan teman-teman, terutama mendengarkan kisah sukses mereka yang menginspirasi dan memberikan banyak pelajaran berharga.
+
+
+### Nilai yang Saya Pegang
+
+- Pembelajaran berkelanjutan
+- Kolaborasi dan komunikasi terbuka
+- Komitmen terhadap kualitas kerja dan tanggung jawab profesional
+
+
 
 * * *
 ![](https://github-profile-trophy.vercel.app/?username=Gand0r&theme=tokyonight)
