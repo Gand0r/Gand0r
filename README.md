@@ -1,26 +1,20 @@
 * * *
-## Tentang Saya
+## About Me
 
-Saya memiliki minat besar dalam menjaga keseimbangan antara kehidupan profesional dan pribadi. Di luar pekerjaan, saya menikmati waktu berkualitas bersama keluarga serta menjalin hubungan yang positif dengan lingkungan sekitar.
+I have a strong interest in maintaining a healthy balance between professional and personal life. Outside of work, I value spending quality time with my family and building positive relationships within my community.
 
+### Hobbies & Interests
 
-### Hobi & Minat
+- Spending time with my family, including going on outings with my wife and children.
+- Engaging in meaningful conversations with friends—especially inspired by their success stories, which offer valuable insights and lessons.
 
-- Menghabiskan waktu bersama keluarga, termasuk berjalan-jalan bersama anak dan istri.
-- Berdiskusi dan berbagi cerita dengan teman-teman, terutama mendengarkan kisah sukses mereka yang menginspirasi dan memberikan banyak pelajaran berharga.
+### Core Values
 
+- Continuous learning and self-improvement  
+- Open collaboration and clear communication  
+- Commitment to quality work and professional responsibility  
 
-### Nilai yang Saya Pegang
-
-- Pembelajaran berkelanjutan
-- Kolaborasi dan komunikasi terbuka
-- Komitmen terhadap kualitas kerja dan tanggung jawab profesional
-
-
-* * *
-👋 Hi, I'm a Network Administrator with a strong passion for Linux, open-source technologies, and infrastructure design. Currently building a robust IT ecosystem for a 4-star hotel, including a web-based internal application tailored for employee productivity and operations.
-
-🔧 Skills & Interests:
+### Skills & Interests:
 - Linux System Administration (Debian/Ubuntu/CentOS)
 - Open Source Server Technologies (Nginx, Apache, MariaDB, Docker, etc.)
 - Network Infrastructure & Security
@@ -28,7 +22,7 @@ Saya memiliki minat besar dalam menjaga keseimbangan antara kehidupan profesiona
 - Web Application Development (PHP, Laravel, JavaScript)
 - System Integration & Monitoring (Zabbix, Prometheus, Grafana)
 
-💼 Current Projects:
+### Current Projects:
 - Designing a scalable infrastructure for hospitality environments
 - Developing an internal HR and operations web platform
 - Optimizing Linux-based server deployments for high availability
